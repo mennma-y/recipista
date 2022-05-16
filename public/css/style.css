@@ -1,0 +1,72 @@
+.nav-link:hover{
+    background-color: burlywood;
+}
+
+
+.background-image{
+    position: relative;
+}
+
+.title-text {
+    position: absolute;
+    top: 160px;
+    left: 100px;
+    color: #fff;
+}
+
+.title-text h1{
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.title-text p{
+    font-size: 30px;
+    
+}
+
+.mypage{
+    padding-bottom: 50px;
+    background-image: url('/image/profileImage.jpg');
+    background-size: cover;
+}
+
+.main-title-text {
+    position: absolute;
+    top: 160px;
+    left: 100px;
+    color: #fff;
+}
+
+.main-title-text h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.main-title-text p{
+    font-size: 30px;
+}
+
+
+
+.card{
+    margin-right:30px;
+    margin-bottom: 20px;
+    background-color: wheat;
+}
+.recipi-itiran{
+    margin-top: 40px;
+    border: solid 1px #eef;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+    background-color: goldenrod;
+    border-radius: 1%;
+}
+
+.container-back{
+    background-image: url('/image/background-image.jpg');
+
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+
